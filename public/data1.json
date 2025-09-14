@@ -1,0 +1,231 @@
+{
+  "main": {
+    "name": "Vinod Darapu",
+    "shortDesc": "Skilled Cloud and DevOps Engineer with 10+ years of IT experience, in supporting, automating, and optimizing mission critical deployments in AWS and Azure clouds, leveraging configuration management, CI/CD, and DevOps processes.",
+    "titles": [
+      "Software Engineer",
+      "Cloud Devops Engineer"
+    ],
+    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "techStackImages": [
+      "https://img.icons8.com/color/144/amazon-web-services.png",
+      "https://img.icons8.com/color/144/azure-1.png",
+      "https://img.icons8.com/color/144/jenkins.png",
+      "https://img.icons8.com/color/144/terraform.png",
+      "https://img.icons8.com/color/144/ansible.png",
+      "https://img.icons8.com/color/144/docker.png",
+      "https://img.icons8.com/color/144/kubernetes.png",
+      "https://img.icons8.com/color/144/github.png",
+      "https://img.icons8.com/color/144/jira.png",
+      "https://img.icons8.com/color/144/dynatrace.png",
+      "https://img.icons8.com/color/144/splunk.png"
+    ]
+  },
+"about": {
+    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImageCaption": "< I build stuff 🚀/>",
+    "title": "Cloud & DevOps Engineer",
+    "about": "A Cloud & DevOps Engineer with over 10 years of experience, specializing in designing, automating, and managing enterprise-scale infrastructures across AWS and Azure. Proven expertise in Infrastructure as Code (IaC) with Terraform and Ansible to provision secure, scalable, and cost-optimized cloud environments. Possesses a strong background in CI/CD pipeline engineering using tools like Jenkins, Octopus, and Copado for automated deployments of both modern and legacy applications. Experienced in monitoring with Dynatrace and ELK, and knowledgeable in Windows/Linux server administration, security best practices, and agile methodologies.",
+    "callUrl": "",
+    "resumeUrl": ""
+  },
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/jhon-doe"
+    },
+    {
+      "name": "GitHub",
+      "icon": "FaGithub",
+      "link": "https://github.com/jhon-doe"
+    },
+    {
+      "name": "Instagram",
+      "icon": "FaInstagram",
+      "link": "https://www.instagram.com/jhondoe"
+    },
+    {
+      "name": "Twitter",
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/jhondoe"
+    }
+  ],
+"skills": [
+    {
+      "name": "AWS",
+      "image": "https://img.icons8.com/color/144/amazon-web-services.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Azure",
+      "image": "https://img.icons8.com/color/144/azure-1.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Jenkins",
+      "image": "https://img.icons8.com/color/144/jenkins.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Terraform",
+      "image": "https://img.icons8.com/color/144/terraform.png",
+      "category": "Tools"
+    },
+    {
+        "name" : "Docker",
+        "image" : "https://img.icons8.com/color/144/docker.png",
+        "category" : "Tools"
+    },
+    {
+      "name": "Ansible",
+      "image": "https://img.icons8.com/color/144/ansible.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Octopus Deploy",
+      "image": "https://pbs.twimg.com/profile_images/1764875795728842752/QH5YACeP_400x400.jpg",
+      "category": "Tools"
+    },
+    {
+      "name": "Jira",
+      "image": "https://img.icons8.com/color/144/jira.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Git",
+      "image": "https://img.icons8.com/color/144/git.png",
+      "category": "Tools"
+    },
+    {
+      "name": "GitHub",
+      "image": "https://img.icons8.com/sf-regular-filled/96/github.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Gitlab",
+      "image": "https://img.icons8.com/color/144/gitlab.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Dynatrace",
+      "image": "https://yt3.googleusercontent.com/LQJAEkT6El2J0nNzy5GQXqpDQaXzvziibekKy9WCgoc7VVT7tdrlvO73BUMOKQcx2Mb0rwsvrcE=s900-c-k-c0x00ffffff-no-rj",
+      "category": "Tools"
+    },
+    {
+      "name": "CloudWatch",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsZYhv1qs59oTKndP7cHQiHXFno6KF4KO1sA&s",
+      "category": "Tools"
+    },
+    {
+      "name": "Splunk",
+      "image": "https://img.icons8.com/color/144/splunk.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Linux",
+      "image": "https://img.icons8.com/color/144/linux--v1.png",
+      "category": "Tools"
+    },
+    {
+      "name": "Maven",
+      "image": "https://img.icons8.com/?size=100&id=t5FJr3NzrPSm&format=png&color=000000",
+      "category": "Tools"
+    },
+    {
+      "name": "Ant",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Apache-Ant-logo.svg",
+      "category": "Tools"
+    },
+    {
+      "name": "Puppet",
+      "image": "https://www.svgrepo.com/show/354230/puppet-icon.svg",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Title",
+      "techstack": "HTML5, CSS3, JavaScript, jQuery",
+      "category": "MERN Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "Flutter, Dart, Firebase",
+      "category": "Flutter",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    },
+    {
+      "name": "Project Title",
+      "techstack": "PHP, MySQL, HTML5, CSS3, Bootstrap, JavaScript",
+      "category": "LAMP Stack",
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210114225740/10-Best-Web-Development-Project-Ideas-For-Beginners-in-2021.png",
+      "links": {
+        "code": "",
+        "video": "",
+        "visit": ""
+      }
+    }
+  ],
+"educations": [
+    {
+      "institute": "New York Institute of Technology",
+      "degree": "Master's in Computer Science",
+      "startDate": "May 2015",
+      "endDate": "May 2017"
+    },
+    {
+      "institute": "JNTU University",
+      "degree": "Bachelor's in Computer Science Engineering",
+      "startDate": "May 2011",
+      "endDate": "May 2015"
+    }
+  ],
+"experiences": [
+    {
+      "company": "RUMBLEON",
+      "position": "Devops Engineer",
+      "startDate": "November 2021",
+      "endDate": "Present",
+      "desc": [
+        "Led cloud migration initiatives using Agile (2-week sprints) and GitHub for collaboration, accelerating delivery cycles and boosting team productivity.",
+        "Collaborated with Enterprise Architecture, Business Partners, Developers, Middleware, Security, and Project Managers to design and implement scalable, highly available, and compliant cloud architectures.",
+        "Designed and deployed ELK stack for enterprise-wide log management and monitoring.",
+        "Built end-to-end CI/CD pipelines in Jenkins, integrating automated testing and deployment workflows, reducing release time from days to hours.",
+        "Applied Infrastructure as Code (IaC) with Terraform to provision AWS and Azure infrastructure, achieving repeatable and cost-optimized deployments.",
+        "Administered and supported Windows Server environments, ensuring reliability of legacy business-critical applications.",
+        "Streamlined DevOps operations by optimizing build/release automation, source code management, and defect/change tracking using JIRA.",
+        "Implemented Copado workflows for Salesforce deployments.",
+        "Automated legacy application deployments on Windows Server/IIS using Octopus Deploy.",
+        "Deployed Dynatrace for performance and log/network monitoring, improving observability.",
+        "Passed all compliance audits by enforcing best security practices."
+      ]
+    },
+    {
+      "company": "THE PCA GROUP OF COMPANIES",
+      "position": "Cloud and DevOps Engineering",
+      "startDate": "July 2015",
+      "endDate": "November 2021",
+      "desc": [
+        "Designed and deployed highly available, fault-tolerant architectures across AWS and Azure, provisioning networking, compute, IAM, and storage resources using Terraform (IaC).",
+        "Automated infrastructure builds using Terraform + Ansible, enabling consistent and repeatable deployments across multiple environments.",
+        "Supported 100+ Azure instances, optimizing costs with Reserved Instances, tagging for cost analysis, and storage lifecycle management.",
+        "Strengthened security by managing Azure AD, Key Vaults, Service Principles, and RBAC policies, ensuring compliance with organizational standards.",
+        "Administered 300+ Windows and Linux servers in mixed VMware/physical environments, including Active Directory, O365, SCCM patching, clustering, and SQL environments.",
+        "Migrated and modernized legacy workloads to cloud environments, reducing reliance on on-premises data centers.",
+        "Used Agile methodology (Scrum, 2-week sprints) and tools such as JIRA, VersionOne, GitHub, and ServiceNow for sprint planning, tracking, and delivery management."
+      ]
+    }
+  ]
+}
