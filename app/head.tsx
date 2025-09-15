@@ -4,7 +4,7 @@ export default function Head() {
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="description"
-        content="I am Vinod Darapu, a Skilled Cloud and DevOps Engineer with 10+ years of IT experience, in supporting, automating, and optimizing mission critical deployments in AWS and Azure clouds, leveraging configuration management, CI/CD, and DevOps processes."
+        content="I am Vinod Darapu, a Skilled Cloud and DevOps Engineer with 10+ years of IT experience, in supporting, automating, and optimizing mission critical Applications in AWS and Azure clouds, leveraging configuration management, CI/CD, and DevOps processes."
       />
       <meta
         name="keywords"
@@ -16,7 +16,7 @@ export default function Head() {
       />
       <meta
         property="og:title"
-        content="Portfolio | Vinod Darapu - Devops Engineer"
+        content="Vinod Darapu - Devops Engineer"
       />
       <meta
         property="og:description"
@@ -48,3 +48,4 @@ export default function Head() {
     </>
   );
 }
+
