@@ -31,7 +31,7 @@ export default async function handler(
           {
             From: {
               Email: process.env.MAIL_FROM as string,
-              Name: "Portfolio Site",
+              Name: "Me",
             },
             To: [
               {
