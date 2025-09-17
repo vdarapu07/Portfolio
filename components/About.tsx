@@ -41,3 +41,4 @@ const About = ({ aboutData, name }: Props) => {
 
 
 export default About
+
