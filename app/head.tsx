@@ -12,7 +12,7 @@ export default function Head() {
       />
       <meta
         property="og:site_name"
-        content="Vinod Darapu's Portfolio"
+        content="Vinod Darapu's Website"
       />
       <meta
         property="og:title"
@@ -44,8 +44,9 @@ export default function Head() {
         content="Portfolio | Vinod Darapu- Devops Engineer"
       />
       <link rel="icon" href="/favicon.ico" />
-      <title>Portfolio | Vinod Darapu- Devops Engineer</title>
+      <title>Vinod Darapu- Devops Engineer</title>
     </>
   );
 }
+
 
