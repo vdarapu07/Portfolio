@@ -8,7 +8,7 @@ export default function Head() {
       />
       <meta
         name="keywords"
-        content="Vinod Darapu, portfolio, vinod darapu, nextjs portfolio, portfolio design, portfolio website, personal portfolio, freelancer, angular, reactjs"
+        content="Vinod Darapu, Cloud Architect, DevOps Architect, AWS, Azure, Terraform, CI/CD, portfolio"
       />
       <meta
         property="og:site_name"
@@ -20,14 +20,14 @@ export default function Head() {
       />
       <meta
         property="og:description"
-        content="I am Vinod Darapu, a Devops Engineer based in Bangalore, India. I'm a 2014 graduate from Sir Vishveswaraiah Institute of Science and Technology (aka Viswam College), Angallu, Andhra Pradesh. I'm passionate about creating beautiful, functional and user-friendly websites and applications, and I'm constantly pushing myself to learn and grow as a developer."
+        content="I am Vinod Darapu, a Skilled Cloud and DevOps Engineer with 10+ years of IT experience, in supporting, automating, and optimizing mission critical Applications in AWS and Azure clouds, leveraging configuration management, CI/CD, and DevOps processes."
       />
-      <meta property="og:url" content="https://vd-portfolio-hazel.vercel.app" />
+      <meta property="og:url" content="https://vinoddarapu.com" />
       <meta
         property="og:image"
         content="https://vd-portfolio-hazel.vercel.app/portfolio-fork.png"
       />
-      <link rel="canonical" href="https://vd-portfolio-hazel.vercel.app" />
+      <link rel="canonical" href="https:vinoddarapu.com" />
       <meta name="author" content="Vinod Darapu" />
       <meta name="language" content="English" />
       <meta name="twitter:card" content="summary" />
@@ -48,6 +48,7 @@ export default function Head() {
     </>
   );
 }
+
 
 
 
