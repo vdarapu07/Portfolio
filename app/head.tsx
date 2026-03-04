@@ -12,11 +12,11 @@ export default function Head() {
       />
       <meta
         property="og:site_name"
-        content="Vinod Darapu's Portfolio"
+        content="Vinod Darapu's Website"
       />
       <meta
         property="og:title"
-        content="Vinod Darapu - Devops Engineer"
+        content="Vinod Darapu- Cloud and Devops Architect"
       />
       <meta
         property="og:description"
@@ -37,15 +37,18 @@ export default function Head() {
       />
       <meta
         name="application-name"
-        content="Portfolio | Vinod Darapu- Devops Engineer"
+        content="Vinod Darapu- Cloud and Devops Architect"
       />
       <meta
         name="apple-mobile-web-app-title"
-        content="Portfolio | Vinod Darapu- Devops Engineer"
+        content="Vinod Darapu- Cloud and Devops Architect"
       />
       <link rel="icon" href="/favicon.ico" />
-      <title>Portfolio | Vinod Darapu- Devops Engineer</title>
+      <title>Vinod Darapu- Cloud and Devops Architect</title>
     </>
   );
 }
+
+
+
 
