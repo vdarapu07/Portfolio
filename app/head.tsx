@@ -41,12 +41,13 @@ export default function Head() {
       />
       <meta
         name="apple-mobile-web-app-title"
-        content="Portfolio | Vinod Darapu- Devops Engineer"
+        content="Vinod Darapu- Cloud and Devops Architect"
       />
       <link rel="icon" href="/favicon.ico" />
       <title>Vinod Darapu- Devops Engineer</title>
     </>
   );
 }
+
 
 
