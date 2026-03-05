@@ -25,15 +25,15 @@ export default function Head() {
       <meta property="og:url" content="https://vinoddarapu.com" />
       <meta
         property="og:image"
-        content="https://vd-portfolio-hazel.vercel.app/portfolio-fork.png"
+        content="https://vinoddarapu.com"
       />
-      <link rel="canonical" href="https:vinoddarapu.com" />
+      <link rel="canonical" href="https://vinoddarapu.com" />
       <meta name="author" content="Vinod Darapu" />
       <meta name="language" content="English" />
       <meta name="twitter:card" content="summary" />
       <meta
         name="twitter:site"
-        content="https://vd-portfolio-hazel.vercel.app"
+        content="https://vinoddarapu.com"
       />
       <meta
         name="application-name"
@@ -48,6 +48,7 @@ export default function Head() {
     </>
   );
 }
+
 
 
 
