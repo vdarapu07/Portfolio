@@ -1,8 +1,22 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output:"export",
   experimental: {
     appDir: true,
+  },
+  async redirects() {
+    return [
+      {
+        source: "/(.*)",
+        has: [
+          {
+            type: "host",
+            value: "vd-portfolio-hazel.vercel.app",
+          },
+        ],
+        destination: "https://vinoddarapu.com/:path*",
+        permanent: true,
+      },
+    ];
   },
   images: {
     domains: [
@@ -22,9 +36,8 @@ const nextConfig = {
       "yt3.googleusercontent.com",
       "encrypted-tbn0.gstatic.com",
       "upload.wikimedia.org",
-      "www.svgrepo.com"
+      "www.svgrepo.com",
     ],
   },
 };
-
 module.exports = nextConfig;
