@@ -10,7 +10,7 @@ const nextConfig = {
         has: [
           {
             type: "host",
-            value: "vd-portfolio-hazel.vercel.app",
+            value: "vd-Cloud and Devops Architect-hazel.vercel.app",
           },
         ],
         destination: "https://vinoddarapu.com/:path*",
